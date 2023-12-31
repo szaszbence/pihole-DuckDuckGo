@@ -1,0 +1,22 @@
+# The list was derived from https://github.com/duckduckgo/tracker-blocklists/
+# Licensed under the CC BY-NC-SA 4.0 license.
+0.0.0.0 api.onesignal.com
+0.0.0.0 appmetrica.yandex.net
+0.0.0.0 cloud.unity3d.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 in.appcenter.ms
+0.0.0.0 ingest.sentry.io
+0.0.0.0 lbs.yandex.net
+0.0.0.0 mobile.webvisor.net
+0.0.0.0 mobile.yandex.net
+0.0.0.0 s.pinimg.com
+0.0.0.0 safeframe.googlesyndication.com
+0.0.0.0 sentry.io
+0.0.0.0 ssp.yahoo.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 web.facebook.com
+0.0.0.0 wins.isprog.com
+0.0.0.0 www.facebook.com
+0.0.0.0 www.instagram.com
+0.0.0.0 ybp.yahoo.com
